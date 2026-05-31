@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/still-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Still In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-in-love/) |
+| **Get License** | [Official Music Licensing for Still In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/still-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5453e4ea34a7a130cc711faf8747621ef78519d30612714aee7641c9472edd9e` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
